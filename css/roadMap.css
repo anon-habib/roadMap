@@ -1,0 +1,186 @@
+/* common */
+body {
+    background: rgb(6, 6, 39);
+    background: linear-gradient(150deg, rgba(6, 6, 39, 1) 0%, rgba(36, 27, 105, 1) 50%);
+}
+.mt-25 {
+    margin-top: 25px !important;
+}
+.mt-40 {
+    margin-top: 40px !important;
+}
+/* common */
+.roadmap-box {
+    width: 125px;
+    height: 30px;
+}
+.roadmap-box h2 {
+    font-size: small;
+    margin-bottom: 15px;
+    line-height: 2.5;
+    background-color: #c9c9c9;
+    border-radius: 20px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    position: relative;
+}
+.roadmap-box h2::before {
+    content: "";
+    position: absolute;
+    right: 48%;
+    top: 97%;
+    width: 0;
+    height: 0;
+    border-right: 10px solid #c9c9c9;
+    border-bottom: 10px solid transparent;
+}
+.roadmap-box h2::after {
+    content: "";
+    position: absolute;
+    right: 41%;
+    top: 97%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid #c9c9c9;
+    border-bottom: 10px solid transparent;
+}
+.roadmap-box p {
+    font-size: 11px;
+    line-height: 1.3;
+}
+.years {
+    font-size: 35px;
+    margin-top: 50px;
+}
+.years2 {
+    font-size: 35px;
+    margin-top: -50px;
+}
+.investors {
+    background-color: #ffa63b !important;
+}
+.investors::before {
+    border-right: 10px solid #ffa63b !important;
+    border-bottom: 10px solid transparent;
+}
+.investors::after {
+    border-left: 10px solid #ffa63b !important;
+    border-bottom: 10px solid transparent;
+}
+.winter {
+    background-color: #ad2ec2 !important;
+}
+.winter::before {
+    border-right: 10px solid #ad2ec2 !important;
+    border-bottom: 10px solid transparent;
+}
+.winter::after {
+    border-left: 10px solid #ad2ec2 !important;
+    border-bottom: 10px solid transparent;
+}
+.accelation {
+    background-color: #2d52ea !important;
+}
+.accelation::before {
+    border-right: 10px solid #2d52ea !important;
+    border-bottom: 10px solid transparent;
+}
+.accelation::after {
+    border-left: 10px solid #2d52ea !important;
+    border-bottom: 10px solid transparent;
+}
+.emoryahub {
+    background-color: #00fa8f !important;
+}
+.emoryahub::before {
+    border-right: 10px solid #00fa8f !important;
+    border-bottom: 10px solid transparent;
+}
+.emoryahub::after {
+    border-left: 10px solid #00fa8f !important;
+    border-bottom: 10px solid transparent;
+}
+.roadmap-img {
+    margin-top: -50px;
+}
+
+/*  */
+
+.roadmap-box-2 {
+    width: 125px;
+    height: 30px;
+}
+.roadmap-box-2 h2 {
+    font-size: small;
+    margin-bottom: 15px;
+    line-height: 2.5;
+    background-color: #ffc93b;
+    border-radius: 20px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    position: relative;
+}
+.roadmap-box-2 h2::before {
+    content: "";
+    position: absolute;
+    right: 48%;
+    bottom: 97%;
+    width: 0;
+    height: 0;
+    border-right: 10px solid #ffc93b;
+    border-top: 10px solid transparent;
+    border-bottom: 0;
+}
+.roadmap-box-2 h2::after {
+    content: "";
+    position: absolute;
+    right: 41%;
+    bottom: 97%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid #ffc93b;
+    border-top: 10px solid transparent;
+    border-bottom: 0;
+}
+.roadmap-box-2 p {
+    font-size: 11px;
+    line-height: 1.3;
+}
+.years {
+    font-size: 35px;
+    margin-top: 50px;
+}
+.blockchain {
+    line-height: initial !important;
+    background-color: #ff4979 !important;
+}
+.blockchain::before {
+    border-right: 10px solid #ff4979 !important;
+    border-top: 10px solid transparent;
+}
+.blockchain::after {
+    border-left: 10px solid #ff4979 !important;
+    border-top: 10px solid transparent;
+}
+.dapps {
+    background-color: #a45dfc !important;
+}
+.dapps::before {
+    border-right: 10px solid #a45dfc !important;
+    border-top: 10px solid transparent;
+}
+.dapps::after {
+    border-left: 10px solid #a45dfc !important;
+    border-top: 10px solid transparent;
+}
+.expension {
+    background-color: #49c9ff !important;    
+}
+.expension::before {
+    border-right: 10px solid #49c9ff !important;
+    border-top: 10px solid transparent;
+}
+.expension::after {
+    border-left: 10px solid #49c9ff !important;
+    border-top: 10px solid transparent;
+}

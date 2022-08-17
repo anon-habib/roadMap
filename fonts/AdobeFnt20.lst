@@ -1,0 +1,271 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-BlackOblique
+FamilyName:Brinnan
+StyleName:Black Oblique
+FullName:Brinnan Black Oblique
+MenuName:Brinnan Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Black Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137064
+FileModTime:1539454940
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Brinnan Black Oblique
+NameArray:0,Mac,4,Brinnan Black Oblique
+NameArray:0,Win,1,Brinnan Black
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Black
+FamilyName:Brinnan
+StyleName:Black
+FullName:Brinnan Black
+MenuName:Brinnan Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133196
+FileModTime:1539454934
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Brinnan Black
+NameArray:0,Mac,4,Brinnan Black
+NameArray:0,Win,1,Brinnan Black
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-BoldOblique
+FamilyName:Brinnan
+StyleName:Bold Oblique
+FullName:Brinnan Bold Oblique
+MenuName:Brinnan
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Bold Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:136336
+FileModTime:1539454928
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Brinnan Bold Oblique
+NameArray:0,Mac,4,Brinnan Bold Oblique
+NameArray:0,Win,1,Brinnan
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Bold
+FamilyName:Brinnan
+StyleName:Bold
+FullName:Brinnan Bold
+MenuName:Brinnan
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132660
+FileModTime:1539454924
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Brinnan Bold
+NameArray:0,Mac,4,Brinnan Bold
+NameArray:0,Win,1,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-LightOblique
+FamilyName:Brinnan
+StyleName:Light Oblique
+FullName:Brinnan Light Oblique
+MenuName:Brinnan Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Light Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135488
+FileModTime:1539454054
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Brinnan Light Oblique
+NameArray:0,Mac,4,Brinnan Light Oblique
+NameArray:0,Win,1,Brinnan Light
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Light
+FamilyName:Brinnan
+StyleName:Light
+FullName:Brinnan Light
+MenuName:Brinnan Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132196
+FileModTime:1539454050
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Brinnan Light
+NameArray:0,Mac,4,Brinnan Light
+NameArray:0,Win,1,Brinnan Light
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Oblique
+FamilyName:Brinnan
+StyleName:Oblique
+FullName:Brinnan Oblique
+MenuName:Brinnan
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:135912
+FileModTime:1539454064
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Brinnan Oblique
+NameArray:0,Mac,4,Brinnan Oblique
+NameArray:0,Win,1,Brinnan
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Regular
+FamilyName:Brinnan
+StyleName:Regular
+FullName:Brinnan Regular
+MenuName:Brinnan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131812
+FileModTime:1539454058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Brinnan Regular
+NameArray:0,Mac,4,Brinnan Regular
+NameArray:0,Win,1,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-ThinOblique
+FamilyName:Brinnan
+StyleName:Thin Oblique
+FullName:Brinnan Thin Oblique
+MenuName:Brinnan Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Thin Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:136172
+FileModTime:1539454046
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Brinnan Thin Oblique
+NameArray:0,Mac,4,Brinnan Thin Oblique
+NameArray:0,Win,1,Brinnan Thin
+NameArray:0,Win,16,Brinnan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Brinnan-Thin
+FamilyName:Brinnan
+StyleName:Thin
+FullName:Brinnan Thin
+MenuName:Brinnan Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\40726\Dropbox\==EMORYA==\SITE\Font\Brinnan Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132392
+FileModTime:1539454042
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Brinnan Thin
+NameArray:0,Mac,4,Brinnan Thin
+NameArray:0,Win,1,Brinnan Thin
+NameArray:0,Win,16,Brinnan
+%EndFont
+
